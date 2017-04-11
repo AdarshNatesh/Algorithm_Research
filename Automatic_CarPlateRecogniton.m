@@ -1,3 +1,6 @@
+%%%%%%%%%%%%%%%%%%%%% Autoamtion Algorithm %%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% Developed by: Adarsh Natesh %%%%%%%%%%%%%%%%%%
+
 clc;    % Clear command window.
 clear all;  % Delete all variables.
 close all;  % Close all figure windows except those created by imtool.
